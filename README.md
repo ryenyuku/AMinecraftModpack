@@ -1,87 +1,73 @@
-# CraftHubIVModpack
-CraftHub IV Java Modpack.
+# A Minecraft Modpack
+A modpack for a Minecraft server.
+To download please go to the Github Actions page
 
-## List of mods
-- Ad Astra
-- Additional Additions
-- Alloy Forgery
-- Animatica
+# List of mods
+- [EMF] Entity Model Features
+- [ESF] Entity Sound Features
+- [ETF] Entity Texture Features
 - AppleSkin
 - Applied Energistics 2
 - Architectury API
-- bad packets
+- BadOptimizations
 - Balm
-- Better Mount HUD
-- Bookshelf
-- Borderless Mining
-- Botany Pots
-- Botany Trees
-- Botarium
+- Better Advancements
 - CC: Tweaked
-- CIT Resewn
+- Chat Patches
 - Cloth Config API
-- Collective
-- Concurrent Chunk Management Engine (Fabric)
-- Consistency+
+- Concurrent Chunk Management Engine (NeoForge)
 - Continuity
-- Controlify
+- Controlify (Controller support)
 - Cooking for Blockheads
-- Create Fabric Sodium Fix
+- Crafting Tweaks
+- Create
+- Create Crafts & Additions
 - Create Slice & Dice
-- Create: Steam 'n' Rails
-- Detail Armor Bar
+- Create: Copycats+
+- Create: Crafts & (More) Additions [Forge/Fabric]
+- Create: The Factory Must Grow
+- Cubes Without Borders
 - Do a Barrel Roll
 - Dynamic FPS
-- Eating Animation
-- Enhanced Block Entities
 - Entity Culling
-- Exordium
-- Fabric API
-- Fabric Language Kotlin
-- Falling Leaves
-- Farmer's Delight [Fabric]
-- FastAnim
-- Fastload
-- FastQuit
+- Farmer's Delight
+- FerriteCore
+- Forgified Fabric API
+- GuideME
 - ImmediatelyFast
-- Indium
 - Iris Shaders
+- Jade 🔍
 - JamLib
-- Krypton
-- LambDynamicLights
-- Language Reload
+- Just Enough Items
+- Just Enough Professions (JEP)
+- Just Zoom
+- Konkrete
+- Kotlin for Forge
+- Leaves Be Gone
 - Lithium
-- Memory Leak Fix
-- MixinTrace
-- Mod Menu
 - Model Gap Fix
 - ModernFix
-- More Chat History
-- No Chat Reports
+- More Culling
+- Mouse Tweaks
+- Noisium
 - Not Enough Animations
-- oωo (owo-lib)
+- Polymorph
 - Presence Footsteps
+- Puzzles Lib
 - Raised
 - Reese's Sodium Options
-- Remove Reloading Screen
-- Resourceful Config
-- Resourceful Lib
 - RightClickHarvest
-- Roughly Enough Items (REI)
-- Roughly Enough Professions (REP)
-- SkinRestorer
+- ScalableLux
+- Sinytra Connector
 - Sodium
+- Sodium Dynamic Lights
 - Sodium Extra
-- Starlight (Fabric)
-- Styled Chat
-- Styled Player List
+- Sodium Options API
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Sound Physics Remastered
 - Tax Free Levels
 - Terralith
-- Tree Harvester
-- Twigs
-- Wilder Wild
-- WTHIT
 - Xaero's Minimap
-- YetAnotherConfigLib
-- You're in Grave Danger
-- Zoomify
+- YetAnotherConfigLib (YACL)

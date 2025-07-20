@@ -1,35 +1,30 @@
 name: Build
-on:
-  push:
-    branches:
-      - 1.20.1
-  pull_request:
-    branches:
-      - 1.20.1
+on: [push, pull_request]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Build modpack with Packwiz
         run: |
           wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           unzip Linux\ 64-bit\ x86.zip
+          rm Linux\ 64-bit\ x86.zip
           chmod +x packwiz
           ./packwiz modrinth export
+          ./packwiz curseforge export
 
-      - name: Generate checksums
-        run: |
-          mkdir output
-          mv *.zip output
-          mv *.mrpack output
-          sha256sum --tag output/*
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+      - name: Upload Modrinth modpack
+        uses: actions/upload-artifact@v4
         with:
-          name: pack-output
-          path: output
+          name: modrinth
+          path: *.mrpack
+
+      - name: Upload Curseforge modpack
+        uses: actions/upload-artifact@v4
+        with:
+          name: curseforge
+          path: *.zip

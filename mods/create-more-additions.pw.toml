@@ -1,0 +1,13 @@
+name = "Create: Crafts & (More) Additions [Forge/Fabric]"
+filename = "create_more_additions-1.6.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ib8iIkX3/versions/XbdeYmTd/create_more_additions-1.6.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "715590dfea79f9dc97b65d68b43d781dfa686e4d78bca8ae0df0c686063960ebda6c6d805b49b59fc1d691594f03fe7a352b0fe979a6740b62a29fe9275096a5"
+
+[update]
+[update.modrinth]
+mod-id = "ib8iIkX3"
+version = "XbdeYmTd"

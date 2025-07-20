@@ -1,13 +1,13 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.20.1-0.5.3.jar"
+filename = "sodium-neoforge-0.6.13+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar"
-hash-format = "sha1"
-hash = "74784e6deb72e8cdb4e3788ac3a3cfd88fc77acf"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b"
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-version = "4OZL6q9h"
+version = "Pb3OXVqC"

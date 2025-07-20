@@ -1,0 +1,17 @@
+# Ignore Git & Github files
+.git/
+.gitattributes
+.github/
+README.md
+LICENSE
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude binaries and server-only modpack
+packwiz
+packwiz.exe
+Server/

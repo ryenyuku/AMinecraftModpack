@@ -13,7 +13,6 @@ To download please go to the Github Actions page
 - Balm
 - Better Advancements
 - CC: Tweaked
-- Chat Patches
 - Cloth Config API
 - Concurrent Chunk Management Engine (NeoForge)
 - Continuity
@@ -25,6 +24,7 @@ To download please go to the Github Actions page
 - Create Slice & Dice
 - Create: Copycats+
 - Create: Crafts & (More) Additions [Forge/Fabric]
+- Create: New Age
 - Create: The Factory Must Grow
 - Cubes Without Borders
 - Do a Barrel Roll
@@ -32,7 +32,6 @@ To download please go to the Github Actions page
 - Entity Culling
 - Farmer's Delight
 - FerriteCore
-- Forgified Fabric API
 - GuideME
 - ImmediatelyFast
 - Iris Shaders

@@ -14,17 +14,17 @@ jobs:
           unzip Linux\ 64-bit\ x86.zip
           rm Linux\ 64-bit\ x86.zip
           chmod +x packwiz
-          ./packwiz modrinth export
-          ./packwiz curseforge export
+          ./packwiz modrinth export -o AMinecraftModpack.mrpack
+          ./packwiz curseforge export -o AMinecraftModpack.zip
 
       - name: Upload Modrinth modpack
         uses: actions/upload-artifact@v4
         with:
           name: modrinth
-          path: *.mrpack
+          path: AMinecraftModpack.mrpack
 
       - name: Upload Curseforge modpack
         uses: actions/upload-artifact@v4
         with:
           name: curseforge
-          path: *.zip
+          path: AMinecraftModpack.zip

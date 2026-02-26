@@ -32,6 +32,7 @@ To download please go to the Github Actions page
 - Entity Culling
 - Farmer's Delight
 - FerriteCore
+- Forgified Fabric API
 - GuideME
 - ImmediatelyFast
 - Iris Shaders

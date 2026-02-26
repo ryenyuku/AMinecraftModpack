@@ -1,6 +1,6 @@
 name = "A Minecraft Modpack"
 author = "ryenyuku"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "da6deb58bc2d5c54e843a2861be6728e87e6e489619094ec68aa29066a64f64e"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.193"
+neoforge = "21.1.219"

@@ -1,12 +1,12 @@
 name = "A Minecraft Modpack"
 author = "ryenyuku"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b1555226648bb6c83d6a66f4b933786739558435d6563f27228f169b4bda3eb3"
+hash = "d3377e201e541a9c60fb1d6b7040dbecd21704b73b7b7798813417654e2f2365"
 
 [versions]
 minecraft = "1.21.1"

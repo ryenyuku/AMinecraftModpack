@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "c0c46fdc7e9ad31b975025a891abd5227562aae0107e79e8d8b6bb34acfa27a5"
+hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
 metafile = true
 
 [[files]]
@@ -83,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/create-more-additions.pw.toml"
 hash = "ef1d68e88555ae46c85da4ded357c20ef1dfebad6cd75cf8273a72b7e4777c5d"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "85048cc2c3269c990d551c6ebe5058662087ea5eb89e9da9ade81e3637654934"
 metafile = true
 
 [[files]]
@@ -246,6 +241,11 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "03d918dc96059d14b2b041b6baf9084dd89c5031ff29e87d6e3cf75d100e1b47"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
 hash = "bc7b8fc32be0531ec1f3300b4720d97fcc266527def7476f4da1c8a5d91d1a36"
 metafile = true
@@ -302,12 +302,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a0d7a9c8a31112c503c66e8ecf3f4d59a34de8278ff6a664bc13285a79eba54f"
+hash = "3477a21180608fd31e4699790711274d2f3b9b0c30376a8aa16d7de9aaf30833"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a12227faef5279cf7afbf3520aed9b23438f309ec9b39463aaf7285a84a0fc78"
+hash = "fe0b8a81e1545af94d40da2547efbc6a7bf323198994c1cfb7b84423d17428ab"
 metafile = true
 
 [[files]]

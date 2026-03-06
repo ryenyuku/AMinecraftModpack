@@ -20,11 +20,11 @@ To download please go to the Github Actions page
 - Cooking for Blockheads
 - Crafting Tweaks
 - Create
-- Create Crafts & Additions
+- Create Deco
+- Create Ore Excavation
 - Create Slice & Dice
 - Create: Copycats+
-- Create: Crafts & (More) Additions [Forge/Fabric]
-- Create: New Age
+- Create: Power Grid
 - Create: The Factory Must Grow
 - Cubes Without Borders
 - Do a Barrel Roll
